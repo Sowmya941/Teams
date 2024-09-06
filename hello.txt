@@ -1,6 +1,7 @@
 Hello this file is for practising
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
 
 doing Stash example
@@ -10,6 +11,10 @@ the command for stash
 <<<<<<< Updated upstream
 >>>>>>> Stashed changes
 =======
+>>>>>>> Stashed changes
+=======
+
+git stash , git stash pop are different not same
 >>>>>>> Stashed changes
 =======
 
