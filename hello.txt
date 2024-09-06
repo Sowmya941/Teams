@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 Hello this file is for practising
 
 <<<<<<< Updated upstream
@@ -7,4 +8,9 @@ doing Stash example
 
 the command for stash
 
+>>>>>>> Stashed changes
+=======
+Hello this file is for practising in main branch
+
+for stash command in local git repo this is task from vcs
 >>>>>>> Stashed changes
