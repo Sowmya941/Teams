@@ -1,1 +1,12 @@
 Hello this file is for practising
+<<<<<<< Updated upstream
+=======
+
+doing Stash example
+
+the command for stash
+
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
