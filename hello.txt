@@ -1,3 +1,10 @@
 Hello this file is for practising
 
+<<<<<<< Updated upstream
 git stash , git stash pop are different not same
+=======
+doing Stash example
+
+the command for stash
+
+>>>>>>> Stashed changes
